@@ -10,7 +10,7 @@
   overflow: hidden;
   align-items: center;
   text-align: center;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("../dist/img/ss.jpeg") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.9), rgba(39, 39, 39, 0.3)), url("casual photo.jpeg") center top;
   background-size: cover;
 }
 .home__name {
